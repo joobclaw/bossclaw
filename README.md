@@ -3,6 +3,12 @@
 在BOSS直聘网海量的招聘信息中寻找合适的工作，往往让人心力交瘁。每天机械地刷岗位、看 JD、点“打招呼”，耗费了大量本该用于准备面试的宝贵时间。
 **BossClaw** 就是为您量身定制的“自动化求职助手”，把繁琐的投递交给我们，您只需要专心准备面试！
 
+### 🎬 演示视频
+
+<video src="https://bossclaw.tos-cn-beijing.volces.com/releases/bossclaw-how-to.mp4" controls="controls" width="100%">
+  您的浏览器不支持播放该视频！请直接访问链接：<a href="https://bossclaw.tos-cn-beijing.volces.com/releases/bossclaw-how-to.mp4">点击观看</a>
+</video>
+
 ---
 
 ## 🎯 为什么你需要 BossClaw？（解决的痛点）
