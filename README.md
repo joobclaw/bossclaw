@@ -5,9 +5,8 @@
 
 ### 🎬 演示视频
 
-<video src="https://bossclaw.tos-cn-beijing.volces.com/releases/bossclaw-how-to.mp4" controls="controls" width="100%">
-  您的浏览器不支持播放该视频！请直接访问链接：<a href="https://bossclaw.tos-cn-beijing.volces.com/releases/bossclaw-how-to.mp4">点击观看</a>
-</video>
+
+https://github.com/user-attachments/assets/5cdf5460-ff58-4129-b1ac-17394f8a7e71
 
 ---
 
